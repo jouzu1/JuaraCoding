@@ -1,9 +1,6 @@
 package com.juaracoding.maze.animation;
 
 public class Labirin {
-	
-	
-
 	private int defaultSizeRuangan = 10;
 	private Player player;
 	
